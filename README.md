@@ -1,5 +1,3 @@
-  
-
 ### <div align="center">I'm Luciano, a full-time full-stack developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
@@ -19,7 +17,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -36,7 +34,7 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -54,6 +52,9 @@
 
 </td><td valign="top" width="50%">
 
+
+
+</td></tr></table>  
 
 <br/>  
 
